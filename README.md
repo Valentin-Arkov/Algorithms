@@ -13,7 +13,7 @@ Data Structures and Algorithms (DSA)
 
 ## Ссылки
 
-[Бхаргава А. Грокаем_Алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
+[Бхаргава А. Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
 
 [Кормен Т.Х. Алгоритмы: построение и анализ](https://ru.wikipedia.org/wiki/Алгоритмы:_построение_и_анализ)
 
