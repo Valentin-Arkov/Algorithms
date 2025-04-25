@@ -13,6 +13,8 @@ Data Structures and Algorithms (DSA)
 
 ## Ссылки
 
-[Арьков 2024 Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
+[Арьков В.Ю. Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
 
 [Основы алгоритмов: Учебник Яндекса](https://education.yandex.ru/handbook/algorithms)
+
+[Алгоритмы и структуры данных: Бесплатный онлайн-курс VK Education](https://education.vk.company/program/kurs-algoritmy-structury-dannyh)
