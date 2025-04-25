@@ -11,6 +11,8 @@ Data Structures and Algorithms (DSA)
 
 Числа Фибоначчи - наивная рекурсия: [py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/fibonacci_recursion.py)
 
-## Учебное пособие
+## Ссылки
 
-[Арьков 2024 Цифровые технологии](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
+[Арьков 2024 Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
+
+[Основы алгоритмов: Учебник Яндекса](https://education.yandex.ru/handbook/algorithms)
