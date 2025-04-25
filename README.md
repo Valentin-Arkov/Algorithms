@@ -13,6 +13,12 @@ Data Structures and Algorithms (DSA)
 
 ## Ссылки
 
+[Бхаргава А. Грокаем_Алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
+
+[Кормен Т.Х. Алгоритмы: построение и анализ]((https://ru.wikipedia.org/wiki/Алгоритмы:_построение_и_анализ))
+
+[Кнут Д.Е. Искусство программирования](https://ru.wikipedia.org/wiki/Искусство_программирования)
+
 [Арьков В.Ю. Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
 
 [Основы алгоритмов: Учебник Яндекса](https://education.yandex.ru/handbook/algorithms)
