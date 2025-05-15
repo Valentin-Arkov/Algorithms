@@ -7,6 +7,8 @@ Data Structures and Algorithms (DSA)
 
 [01 Введение](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_01_Intro.pdf)
 
+[02 Большое О](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_02_Big-O.pdf)
+
 ## Программы
 
 Числа Фибоначчи - наивная рекурсия: [py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/fibonacci_recursion.py)
