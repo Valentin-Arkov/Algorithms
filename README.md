@@ -15,7 +15,11 @@ Data Structures and Algorithms (DSA)
 
 Числа Фибоначчи - наивная рекурсия: [py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/fibonacci_recursion.py)
 
-Поиск максимума - хронометраж - вывод в CSV: [find_max_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/find_max_csv.cs)
+Поиск максимума - хронометраж - вывод в CSV: 
+
+[find_max_perf.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/find_max_perf.py)
+
+[find_max_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/find_max_csv.cs)
 
 ## Ссылки
 
