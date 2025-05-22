@@ -28,4 +28,4 @@ for n in range(35):
 # Запускаем с перенаправлением в файл *.CSV
 # python fibonacci_recursion.py > fibonacci_recursion.csv
 
-# (c) Арьков В.Ю.
+# (cc) Арьков В.Ю.
