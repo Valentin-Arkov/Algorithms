@@ -13,7 +13,7 @@ Data Structures and Algorithms (DSA)
 
 [03 Анализ](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_03_Analysis.pdf)
 
-## Программы
+## Примеры программ
 
 ### Числа Фибоначчи
 [fibonacci_recursion.py - наивная рекурсия](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/fibonacci_recursion.py)
