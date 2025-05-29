@@ -50,10 +50,10 @@ Data Structures and Algorithms (DSA)
 
 [Кнут Д.Е. Искусство программирования](https://ru.wikipedia.org/wiki/Искусство_программирования)
 
-[Арьков В.Ю. Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
-
 [Основы алгоритмов: Учебник Яндекса](https://education.yandex.ru/handbook/algorithms)
 
 [Алгоритмы и структуры данных: Бесплатный онлайн-курс VK Education](https://education.vk.company/program/kurs-algoritmy-structury-dannyh)
 
 [Введение в алгоритмы: Бесплатный онлайн-курс Сириус](https://edu.sirius.online/#/course/2264/)
+
+[Арьков В.Ю. Цифровые технологии: Учебное пособие](https://ridero.ru/books/cifrovye_tekhnologii_i_iskusstvennyi_intellekt/)
