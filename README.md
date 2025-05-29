@@ -26,6 +26,8 @@ Data Structures and Algorithms (DSA)
 
 [maxx.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/maxx.cs)
 
+[Maxx.java](https://github.com/Valentin-Arkov/Algorithms/blob/main/Java/Maxx.java)
+
 Выводим время на экран и в файл CSV
 
 [maxx_csv.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx_csv.py)
