@@ -17,9 +17,10 @@ Data Structures and Algorithms (DSA)
 
 Поиск максимума - хронометраж - вывод в CSV: 
 
-[find_max_perf.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/find_max_perf.py)
+[maxx.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx.py)
 
 [find_max_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/find_max_csv.cs)
+
 
 ## Ссылки
 
