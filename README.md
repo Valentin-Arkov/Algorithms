@@ -5,6 +5,8 @@ Data Structures and Algorithms (DSA)
 
 ## Слайды
 
+[00 Техника](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_00_Tech.pdf)
+
 [01 Введение](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_01_Intro.pdf)
 
 [02 Большое О](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_02_Big-O.pdf)
