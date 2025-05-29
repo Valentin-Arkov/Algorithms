@@ -24,11 +24,11 @@ Data Structures and Algorithms (DSA)
 
 [maxx.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/maxx.cs)
 
-Пишем время в CSV
+Выводим время на экран и в файл CSV
 
 [maxx_csv.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx_csv.py)
 
-[find_max_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/find_max_csv.cs)
+[maxx_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/maxx_csv.cs)
 
 
 ## Ссылки
