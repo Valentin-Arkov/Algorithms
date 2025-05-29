@@ -18,9 +18,15 @@ Data Structures and Algorithms (DSA)
 
 ### Поиск максимума - хронометраж - вывод в CSV: 
 
-[maxx.py - подбираем размер задачи](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx.py)
+Подбираем размер задачи n:
 
-[maxx_csv.py - измеряем время и пишем CSV](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx_csv.py)
+[maxx.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx.py)
+
+[maxx.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/maxx.cs)
+
+Пишем время в CSV
+
+[maxx_csv.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/maxx_csv.py)
 
 [find_max_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/find_max_csv.cs)
 
