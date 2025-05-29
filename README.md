@@ -30,6 +30,11 @@ Data Structures and Algorithms (DSA)
 
 [maxx_csv.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/maxx_csv.cs)
 
+Примеры CSV файлов
+
+[maxx_py_best.csv](https://github.com/Valentin-Arkov/Algorithms/blob/main/CSV/maxx_py_best.csv)
+
+[maxx_py_worst.csv](https://github.com/Valentin-Arkov/Algorithms/blob/main/CSV/maxx_py_worst.csv)
 
 ## Ссылки
 
