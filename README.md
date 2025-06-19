@@ -42,6 +42,16 @@ Data Structures and Algorithms (DSA)
 
 [maxx_py_best_worst.xlsx](https://github.com/Valentin-Arkov/Algorithms/blob/main/CSV/maxx_py_best_worst.xlsx)
 
+
+### Пузырьковая сортировка
+
+[bubble.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/bubble.py)
+
+[bubble.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/bubble.cs)
+
+[bubble.java](https://github.com/Valentin-Arkov/Algorithms/blob/main/Java/bubble.java)
+
+
 ## Ссылки
 
 [Бхаргава А. Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
