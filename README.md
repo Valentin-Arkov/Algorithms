@@ -13,6 +13,8 @@ Data Structures and Algorithms (DSA)
 
 [03 Анализ](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_03_Analysis.pdf)
 
+[04 Сортировка](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_04_Sort.pdf)
+
 ## Примеры программ
 
 ### Числа Фибоначчи
