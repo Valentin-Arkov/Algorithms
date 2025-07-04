@@ -59,7 +59,7 @@ Data Structures and Algorithms (DSA)
 
 [merge.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/merge.cs)
 
-[merge.java]()
+[merge.java](https://github.com/Valentin-Arkov/Algorithms/blob/main/Java/merge3.java)
 
 ## Ссылки
 
