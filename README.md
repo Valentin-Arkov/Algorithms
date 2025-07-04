@@ -53,6 +53,13 @@ Data Structures and Algorithms (DSA)
 
 [bubble.java](https://github.com/Valentin-Arkov/Algorithms/blob/main/Java/bubble.java)
 
+### Сортировка слиянием
+
+[merge.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/merge_csv.py)
+
+[merge.cs]()
+
+[merge.java]()
 
 ## Ссылки
 
