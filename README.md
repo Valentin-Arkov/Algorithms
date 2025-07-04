@@ -57,7 +57,7 @@ Data Structures and Algorithms (DSA)
 
 [merge.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/merge_csv.py)
 
-[merge.cs]()
+[merge.cs](https://github.com/Valentin-Arkov/Algorithms/blob/main/CS/merge.cs)
 
 [merge.java]()
 
