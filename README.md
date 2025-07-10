@@ -17,6 +17,8 @@ Data Structures and Algorithms (DSA)
 
 [05 Разделяй и властвуй](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_05_Merge.pdf)
 
+[06 Пирамида](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_06_Heap.pdf)
+
 ## Примеры программ
 
 ### Числа Фибоначчи
