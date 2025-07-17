@@ -19,6 +19,8 @@ Data Structures and Algorithms (DSA)
 
 [06 Пирамида](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_06_Heap.pdf)
 
+[07 Хоар](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_07_Quick.pdf)
+
 ## Примеры программ
 
 ### Числа Фибоначчи
