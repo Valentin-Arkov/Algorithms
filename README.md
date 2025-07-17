@@ -67,6 +67,10 @@ Data Structures and Algorithms (DSA)
 
 [merge.java](https://github.com/Valentin-Arkov/Algorithms/blob/main/Java/merge3.java)
 
+### Быстрая сортировка
+
+[quick_naive.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/quick_naive.py)
+
 ## Ссылки
 
 [Бхаргава А. Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
