@@ -21,6 +21,8 @@ Data Structures and Algorithms (DSA)
 
 [07 Хоар](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_07_Quick.pdf)
 
+[08 Radix](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_10_Radix.pdf)
+
 ## Примеры программ
 
 ### Числа Фибоначчи
