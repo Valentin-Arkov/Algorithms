@@ -3,6 +3,8 @@ Data Structures and Algorithms (DSA)
 
 Изучаем классические алгоритмы
 
+[Опрос](https://forms.yandex.ru/u/688288ce49363903d14bff65)
+
 ## Слайды
 
 [00 Техника](https://github.com/Valentin-Arkov/Algorithms/blob/main/Slides/ALG_00_Tech.pdf)
