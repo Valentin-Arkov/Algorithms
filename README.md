@@ -71,6 +71,10 @@ Data Structures and Algorithms (DSA)
 
 [quick_naive.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/quick_naive.py)
 
+### Поразрядная сортировка
+
+[radix_sort.py](https://github.com/Valentin-Arkov/Algorithms/blob/main/Python/radix_sort.py)
+
 ## Ссылки
 
 [Бхаргава А. Грокаем алгоритмы](https://www.piter.com/product/grokaem-algoritmy-2-e-izd)
